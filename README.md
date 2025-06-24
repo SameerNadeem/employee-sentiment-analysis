@@ -7,7 +7,6 @@ A machine learning project that analyzes employee feedback using **RoBERTa trans
 ## Quick Start
 
 ```bash
-# Clone and run in 2 minutes
 git clone https://github.com/your-username/employee-sentiment-analysis
 cd employee-sentiment-analysis
 pip install streamlit pandas plotly transformers torch
