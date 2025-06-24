@@ -1,0 +1,36 @@
+# Model Configuration
+model:
+  name: "roberta-base"
+  num_classes: 3
+  max_length: 512
+  dropout_rate: 0.3
+
+# Training Configuration
+training:
+  batch_size: 16
+  learning_rate: 2e-5
+  num_epochs: 3
+  warmup_steps: 500
+  weight_decay: 0.01
+  save_steps: 1000
+  eval_steps: 500
+
+# Data Configuration
+data:
+  train_split: 0.8
+  val_split: 0.1
+  test_split: 0.1
+  random_seed: 42
+
+# Paths
+paths:
+  data_dir: "./data"
+  model_dir: "./models"
+  logs_dir: "./logs"
+  output_dir: "./outputs"
+
+# Sentiment Labels
+labels:
+  0: "Negative"
+  1: "Neutral" 
+  2: "Positive"

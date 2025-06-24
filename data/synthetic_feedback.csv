@@ -1,0 +1,21 @@
+feedback,sentiment,department,timestamp
+"I love working here! The team is amazing and management is very supportive.",2,Engineering,2024-01-15
+"The workload is overwhelming and I'm constantly stressed about deadlines.",0,Marketing,2024-01-16
+"Everything is okay, nothing special to mention.",1,HR,2024-01-17
+"Great company culture and excellent benefits package.",2,Sales,2024-01-18
+"Communication from management could be much better.",0,Finance,2024-01-19
+"The office environment is pleasant and collaborative.",2,Operations,2024-01-20
+"I feel like my career growth has stagnated here.",0,Engineering,2024-01-21
+"Work-life balance is reasonable most of the time.",1,Marketing,2024-01-22
+"Amazing learning opportunities and professional development.",2,Engineering,2024-01-23
+"The recent policy changes are confusing and poorly communicated.",0,HR,2024-01-24
+"My manager is very understanding and helpful.",2,Sales,2024-01-25
+"Salary is competitive compared to other companies.",1,Finance,2024-01-26
+"Too many meetings and not enough time for actual work.",0,Operations,2024-01-27
+"The company values align well with my personal values.",2,Marketing,2024-01-28
+"Flexible working arrangements are a huge plus.",2,Engineering,2024-01-29
+"I wish there were more opportunities for remote work.",0,HR,2024-01-30
+"The cafeteria food has improved significantly.",1,Sales,2024-01-31
+"Promotion process is unclear and seems unfair.",0,Finance,2024-02-01
+"Really enjoy the collaborative projects with other teams.",2,Operations,2024-02-02
+"The new software tools are helping improve productivity.",1,Engineering,2024-02-03
