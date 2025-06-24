@@ -1,21 +1,401 @@
-feedback,sentiment,department,timestamp
-"I love working here! The team is amazing and management is very supportive.",2,Engineering,2024-01-15
-"The workload is overwhelming and I'm constantly stressed about deadlines.",0,Marketing,2024-01-16
-"Everything is okay, nothing special to mention.",1,HR,2024-01-17
-"Great company culture and excellent benefits package.",2,Sales,2024-01-18
-"Communication from management could be much better.",0,Finance,2024-01-19
-"The office environment is pleasant and collaborative.",2,Operations,2024-01-20
-"I feel like my career growth has stagnated here.",0,Engineering,2024-01-21
-"Work-life balance is reasonable most of the time.",1,Marketing,2024-01-22
-"Amazing learning opportunities and professional development.",2,Engineering,2024-01-23
-"The recent policy changes are confusing and poorly communicated.",0,HR,2024-01-24
-"My manager is very understanding and helpful.",2,Sales,2024-01-25
-"Salary is competitive compared to other companies.",1,Finance,2024-01-26
-"Too many meetings and not enough time for actual work.",0,Operations,2024-01-27
-"The company values align well with my personal values.",2,Marketing,2024-01-28
-"Flexible working arrangements are a huge plus.",2,Engineering,2024-01-29
-"I wish there were more opportunities for remote work.",0,HR,2024-01-30
-"The cafeteria food has improved significantly.",1,Sales,2024-01-31
-"Promotion process is unclear and seems unfair.",0,Finance,2024-02-01
-"Really enjoy the collaborative projects with other teams.",2,Operations,2024-02-02
-"The new software tools are helping improve productivity.",1,Engineering,2024-02-03
+feedback,sentiment
+Management needs to improve communication significantly,Negative
+Great work environment and supportive colleagues,Positive
+Love the company culture and growth opportunities,Positive
+Stressful work environment with unrealistic deadlines,Negative
+"Work is standard, meets expectations",Neutral
+Poor leadership and micromanagement issues,Negative
+"Work-life balance could be much better, too many late nights",Negative
+Excellent management and clear communication,Positive
+Management needs to improve communication significantly,Negative
+Office facilities are modern and comfortable,Positive
+Perfect work-life balance and flexible hours,Positive
+Standard work environment,Neutral
+"Work-life balance could be much better, too many late nights",Negative
+"Work is standard, meets expectations",Neutral
+Regular team meetings and updates,Neutral
+Great work environment and supportive colleagues,Positive
+Professional development opportunities are excellent,Positive
+Regular team meetings and updates,Neutral
+Average workplace with normal procedures,Neutral
+Love the company culture and growth opportunities,Positive
+Professional development opportunities are excellent,Positive
+Overworked and understaffed department,Negative
+Overworked and understaffed department,Negative
+Poor leadership and micromanagement issues,Negative
+"The job is okay, nothing special but not bad either",Neutral
+Company policies are reasonable,Neutral
+Standard work environment,Neutral
+Management needs to improve communication significantly,Negative
+"Work-life balance could be much better, too many late nights",Negative
+Perfect work-life balance and flexible hours,Positive
+Standard work environment,Neutral
+Office facilities are modern and comfortable,Positive
+Perfect work-life balance and flexible hours,Positive
+Competitive salary and amazing benefits package,Positive
+Great work environment and supportive colleagues,Positive
+Love the company culture and growth opportunities,Positive
+Great work environment and supportive colleagues,Positive
+"The job is okay, nothing special but not bad either",Neutral
+Excellent management and clear communication,Positive
+Great work environment and supportive colleagues,Positive
+Professional development opportunities are excellent,Positive
+Poor leadership and micromanagement issues,Negative
+Great work environment and supportive colleagues,Positive
+Limited career growth opportunities available,Negative
+Salary is below market rate for this position,Negative
+Regular team meetings and updates,Neutral
+Overworked and understaffed department,Negative
+Office facilities are modern and comfortable,Positive
+Perfect work-life balance and flexible hours,Positive
+Decent benefits package,Neutral
+Average workplace with normal procedures,Neutral
+Salary is below market rate for this position,Negative
+Perfect work-life balance and flexible hours,Positive
+Excellent management and clear communication,Positive
+Professional development opportunities are excellent,Positive
+Excellent management and clear communication,Positive
+Poor leadership and micromanagement issues,Negative
+Toxic workplace culture needs immediate attention,Negative
+Toxic workplace culture needs immediate attention,Negative
+Professional development opportunities are excellent,Positive
+Love the company culture and growth opportunities,Positive
+Office facilities are modern and comfortable,Positive
+Competitive salary and amazing benefits package,Positive
+Great work environment and supportive colleagues,Positive
+Excellent management and clear communication,Positive
+Love the company culture and growth opportunities,Positive
+Standard work environment,Neutral
+Toxic workplace culture needs immediate attention,Negative
+Excellent management and clear communication,Positive
+Competitive salary and amazing benefits package,Positive
+Competitive salary and amazing benefits package,Positive
+Team collaboration is outstanding,Positive
+Standard work environment,Neutral
+Poor leadership and micromanagement issues,Negative
+Perfect work-life balance and flexible hours,Positive
+Love the company culture and growth opportunities,Positive
+Management needs to improve communication significantly,Negative
+Team collaboration is outstanding,Positive
+Toxic workplace culture needs immediate attention,Negative
+Overworked and understaffed department,Negative
+Excellent management and clear communication,Positive
+Excellent management and clear communication,Positive
+"Work-life balance could be much better, too many late nights",Negative
+Love the company culture and growth opportunities,Positive
+Management needs to improve communication significantly,Negative
+Team collaboration is outstanding,Positive
+Great work environment and supportive colleagues,Positive
+Overworked and understaffed department,Negative
+Excellent management and clear communication,Positive
+Management needs to improve communication significantly,Negative
+Limited career growth opportunities available,Negative
+Competitive salary and amazing benefits package,Positive
+Standard work environment,Neutral
+Team collaboration is outstanding,Positive
+Decent benefits package,Neutral
+Perfect work-life balance and flexible hours,Positive
+Competitive salary and amazing benefits package,Positive
+Salary is below market rate for this position,Negative
+Management needs to improve communication significantly,Negative
+Office facilities are modern and comfortable,Positive
+Team collaboration is outstanding,Positive
+Love the company culture and growth opportunities,Positive
+Company policies are reasonable,Neutral
+Poor leadership and micromanagement issues,Negative
+Excellent management and clear communication,Positive
+"Work is standard, meets expectations",Neutral
+Perfect work-life balance and flexible hours,Positive
+Professional development opportunities are excellent,Positive
+Great work environment and supportive colleagues,Positive
+Team collaboration is outstanding,Positive
+Standard work environment,Neutral
+Office facilities are modern and comfortable,Positive
+Limited career growth opportunities available,Negative
+Standard work environment,Neutral
+"Work is standard, meets expectations",Neutral
+Great work environment and supportive colleagues,Positive
+Average workplace with normal procedures,Neutral
+"The job is okay, nothing special but not bad either",Neutral
+Perfect work-life balance and flexible hours,Positive
+Regular team meetings and updates,Neutral
+Overworked and understaffed department,Negative
+Decent benefits package,Neutral
+Company policies are reasonable,Neutral
+"The job is okay, nothing special but not bad either",Neutral
+Office facilities are modern and comfortable,Positive
+Decent benefits package,Neutral
+Competitive salary and amazing benefits package,Positive
+Team collaboration is outstanding,Positive
+Competitive salary and amazing benefits package,Positive
+Love the company culture and growth opportunities,Positive
+Professional development opportunities are excellent,Positive
+Regular team meetings and updates,Neutral
+Company policies are reasonable,Neutral
+Office facilities are modern and comfortable,Positive
+Company policies are reasonable,Neutral
+Professional development opportunities are excellent,Positive
+Decent benefits package,Neutral
+Professional development opportunities are excellent,Positive
+Professional development opportunities are excellent,Positive
+Limited career growth opportunities available,Negative
+Perfect work-life balance and flexible hours,Positive
+Perfect work-life balance and flexible hours,Positive
+Limited career growth opportunities available,Negative
+Decent benefits package,Neutral
+Stressful work environment with unrealistic deadlines,Negative
+Office facilities are modern and comfortable,Positive
+Office facilities are modern and comfortable,Positive
+Management needs to improve communication significantly,Negative
+Standard work environment,Neutral
+Overworked and understaffed department,Negative
+Overworked and understaffed department,Negative
+Salary is below market rate for this position,Negative
+Management needs to improve communication significantly,Negative
+Regular team meetings and updates,Neutral
+Team collaboration is outstanding,Positive
+"The job is okay, nothing special but not bad either",Neutral
+Professional development opportunities are excellent,Positive
+Competitive salary and amazing benefits package,Positive
+Stressful work environment with unrealistic deadlines,Negative
+Regular team meetings and updates,Neutral
+Poor leadership and micromanagement issues,Negative
+Love the company culture and growth opportunities,Positive
+Professional development opportunities are excellent,Positive
+Great work environment and supportive colleagues,Positive
+Salary is below market rate for this position,Negative
+"The job is okay, nothing special but not bad either",Neutral
+"The job is okay, nothing special but not bad either",Neutral
+Competitive salary and amazing benefits package,Positive
+Love the company culture and growth opportunities,Positive
+Professional development opportunities are excellent,Positive
+Toxic workplace culture needs immediate attention,Negative
+Perfect work-life balance and flexible hours,Positive
+Management needs to improve communication significantly,Negative
+Overworked and understaffed department,Negative
+Standard work environment,Neutral
+Office facilities are modern and comfortable,Positive
+Standard work environment,Neutral
+Office facilities are modern and comfortable,Positive
+Love the company culture and growth opportunities,Positive
+Love the company culture and growth opportunities,Positive
+Professional development opportunities are excellent,Positive
+Standard work environment,Neutral
+Professional development opportunities are excellent,Positive
+Perfect work-life balance and flexible hours,Positive
+Professional development opportunities are excellent,Positive
+Regular team meetings and updates,Neutral
+Office facilities are modern and comfortable,Positive
+Management needs to improve communication significantly,Negative
+Average workplace with normal procedures,Neutral
+Overworked and understaffed department,Negative
+Salary is below market rate for this position,Negative
+Regular team meetings and updates,Neutral
+Overworked and understaffed department,Negative
+Excellent management and clear communication,Positive
+Great work environment and supportive colleagues,Positive
+Excellent management and clear communication,Positive
+Office facilities are modern and comfortable,Positive
+Perfect work-life balance and flexible hours,Positive
+Toxic workplace culture needs immediate attention,Negative
+Perfect work-life balance and flexible hours,Positive
+Perfect work-life balance and flexible hours,Positive
+Office facilities are modern and comfortable,Positive
+Decent benefits package,Neutral
+Poor leadership and micromanagement issues,Negative
+Decent benefits package,Neutral
+"Work is standard, meets expectations",Neutral
+"The job is okay, nothing special but not bad either",Neutral
+"Work is standard, meets expectations",Neutral
+Average workplace with normal procedures,Neutral
+Great work environment and supportive colleagues,Positive
+"The job is okay, nothing special but not bad either",Neutral
+Love the company culture and growth opportunities,Positive
+Company policies are reasonable,Neutral
+"The job is okay, nothing special but not bad either",Neutral
+Love the company culture and growth opportunities,Positive
+Love the company culture and growth opportunities,Positive
+Standard work environment,Neutral
+Overworked and understaffed department,Negative
+Competitive salary and amazing benefits package,Positive
+Salary is below market rate for this position,Negative
+Professional development opportunities are excellent,Positive
+Toxic workplace culture needs immediate attention,Negative
+Decent benefits package,Neutral
+Company policies are reasonable,Neutral
+Company policies are reasonable,Neutral
+Average workplace with normal procedures,Neutral
+Love the company culture and growth opportunities,Positive
+Decent benefits package,Neutral
+Team collaboration is outstanding,Positive
+"The job is okay, nothing special but not bad either",Neutral
+"The job is okay, nothing special but not bad either",Neutral
+Toxic workplace culture needs immediate attention,Negative
+Average workplace with normal procedures,Neutral
+Office facilities are modern and comfortable,Positive
+Great work environment and supportive colleagues,Positive
+Excellent management and clear communication,Positive
+Average workplace with normal procedures,Neutral
+Great work environment and supportive colleagues,Positive
+Salary is below market rate for this position,Negative
+Excellent management and clear communication,Positive
+Love the company culture and growth opportunities,Positive
+Salary is below market rate for this position,Negative
+Love the company culture and growth opportunities,Positive
+Management needs to improve communication significantly,Negative
+Perfect work-life balance and flexible hours,Positive
+Overworked and understaffed department,Negative
+Salary is below market rate for this position,Negative
+Average workplace with normal procedures,Neutral
+Professional development opportunities are excellent,Positive
+Competitive salary and amazing benefits package,Positive
+Poor leadership and micromanagement issues,Negative
+"The job is okay, nothing special but not bad either",Neutral
+"Work is standard, meets expectations",Neutral
+Average workplace with normal procedures,Neutral
+Perfect work-life balance and flexible hours,Positive
+Professional development opportunities are excellent,Positive
+Team collaboration is outstanding,Positive
+Office facilities are modern and comfortable,Positive
+Team collaboration is outstanding,Positive
+Average workplace with normal procedures,Neutral
+Professional development opportunities are excellent,Positive
+Competitive salary and amazing benefits package,Positive
+"The job is okay, nothing special but not bad either",Neutral
+Perfect work-life balance and flexible hours,Positive
+Salary is below market rate for this position,Negative
+Great work environment and supportive colleagues,Positive
+Average workplace with normal procedures,Neutral
+Company policies are reasonable,Neutral
+"Work-life balance could be much better, too many late nights",Negative
+Competitive salary and amazing benefits package,Positive
+Office facilities are modern and comfortable,Positive
+Overworked and understaffed department,Negative
+"Work-life balance could be much better, too many late nights",Negative
+Love the company culture and growth opportunities,Positive
+Professional development opportunities are excellent,Positive
+Standard work environment,Neutral
+Office facilities are modern and comfortable,Positive
+Office facilities are modern and comfortable,Positive
+Average workplace with normal procedures,Neutral
+Love the company culture and growth opportunities,Positive
+Love the company culture and growth opportunities,Positive
+Excellent management and clear communication,Positive
+Perfect work-life balance and flexible hours,Positive
+Competitive salary and amazing benefits package,Positive
+Excellent management and clear communication,Positive
+Management needs to improve communication significantly,Negative
+Professional development opportunities are excellent,Positive
+Poor leadership and micromanagement issues,Negative
+"Work is standard, meets expectations",Neutral
+Limited career growth opportunities available,Negative
+Excellent management and clear communication,Positive
+Salary is below market rate for this position,Negative
+Office facilities are modern and comfortable,Positive
+Competitive salary and amazing benefits package,Positive
+Team collaboration is outstanding,Positive
+Competitive salary and amazing benefits package,Positive
+Competitive salary and amazing benefits package,Positive
+Overworked and understaffed department,Negative
+Poor leadership and micromanagement issues,Negative
+Average workplace with normal procedures,Neutral
+Poor leadership and micromanagement issues,Negative
+Perfect work-life balance and flexible hours,Positive
+Perfect work-life balance and flexible hours,Positive
+Great work environment and supportive colleagues,Positive
+Limited career growth opportunities available,Negative
+Excellent management and clear communication,Positive
+Excellent management and clear communication,Positive
+Competitive salary and amazing benefits package,Positive
+Excellent management and clear communication,Positive
+Toxic workplace culture needs immediate attention,Negative
+Team collaboration is outstanding,Positive
+Standard work environment,Neutral
+Team collaboration is outstanding,Positive
+Great work environment and supportive colleagues,Positive
+Salary is below market rate for this position,Negative
+Company policies are reasonable,Neutral
+Regular team meetings and updates,Neutral
+Perfect work-life balance and flexible hours,Positive
+Average workplace with normal procedures,Neutral
+Competitive salary and amazing benefits package,Positive
+Love the company culture and growth opportunities,Positive
+Excellent management and clear communication,Positive
+Regular team meetings and updates,Neutral
+Team collaboration is outstanding,Positive
+Overworked and understaffed department,Negative
+Perfect work-life balance and flexible hours,Positive
+Salary is below market rate for this position,Negative
+Great work environment and supportive colleagues,Positive
+Perfect work-life balance and flexible hours,Positive
+"Work is standard, meets expectations",Neutral
+"The job is okay, nothing special but not bad either",Neutral
+Office facilities are modern and comfortable,Positive
+Overworked and understaffed department,Negative
+Overworked and understaffed department,Negative
+"The job is okay, nothing special but not bad either",Neutral
+Poor leadership and micromanagement issues,Negative
+Regular team meetings and updates,Neutral
+Professional development opportunities are excellent,Positive
+Perfect work-life balance and flexible hours,Positive
+Professional development opportunities are excellent,Positive
+Poor leadership and micromanagement issues,Negative
+Team collaboration is outstanding,Positive
+Competitive salary and amazing benefits package,Positive
+Salary is below market rate for this position,Negative
+"The job is okay, nothing special but not bad either",Neutral
+Perfect work-life balance and flexible hours,Positive
+Average workplace with normal procedures,Neutral
+Limited career growth opportunities available,Negative
+Office facilities are modern and comfortable,Positive
+Perfect work-life balance and flexible hours,Positive
+Salary is below market rate for this position,Negative
+Standard work environment,Neutral
+Competitive salary and amazing benefits package,Positive
+Perfect work-life balance and flexible hours,Positive
+Team collaboration is outstanding,Positive
+Excellent management and clear communication,Positive
+Team collaboration is outstanding,Positive
+Professional development opportunities are excellent,Positive
+Excellent management and clear communication,Positive
+Limited career growth opportunities available,Negative
+Overworked and understaffed department,Negative
+"Work is standard, meets expectations",Neutral
+Love the company culture and growth opportunities,Positive
+Average workplace with normal procedures,Neutral
+Overworked and understaffed department,Negative
+"The job is okay, nothing special but not bad either",Neutral
+Team collaboration is outstanding,Positive
+"The job is okay, nothing special but not bad either",Neutral
+Company policies are reasonable,Neutral
+Professional development opportunities are excellent,Positive
+Management needs to improve communication significantly,Negative
+Average workplace with normal procedures,Neutral
+Great work environment and supportive colleagues,Positive
+Love the company culture and growth opportunities,Positive
+Regular team meetings and updates,Neutral
+Competitive salary and amazing benefits package,Positive
+Toxic workplace culture needs immediate attention,Negative
+Stressful work environment with unrealistic deadlines,Negative
+Team collaboration is outstanding,Positive
+Perfect work-life balance and flexible hours,Positive
+Great work environment and supportive colleagues,Positive
+Professional development opportunities are excellent,Positive
+Professional development opportunities are excellent,Positive
+Limited career growth opportunities available,Negative
+Salary is below market rate for this position,Negative
+Company policies are reasonable,Neutral
+Decent benefits package,Neutral
+Great work environment and supportive colleagues,Positive
+Professional development opportunities are excellent,Positive
+Professional development opportunities are excellent,Positive
+Decent benefits package,Neutral
+Office facilities are modern and comfortable,Positive
+Poor leadership and micromanagement issues,Negative
+Professional development opportunities are excellent,Positive
+Poor leadership and micromanagement issues,Negative
+"Work-life balance could be much better, too many late nights",Negative
+Overworked and understaffed department,Negative
+Management needs to improve communication significantly,Negative
+Great work environment and supportive colleagues,Positive
+Team collaboration is outstanding,Positive
